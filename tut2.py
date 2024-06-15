@@ -7,7 +7,7 @@ print("The sum is : "+ str(a+b))
 # new program
 from math import *
 print(floor(3.4))
-print (ceil(3.1))
+print (ceil(3.1))
 
 
 # taking input
